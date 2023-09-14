@@ -3,6 +3,7 @@ deleted Some unused contents - change by Atharva
 Hello this is new line.
 Hello this is Riya.
 hello this is Amit.
+Hello this is Pratap.
 
 Note: this is the amit branch created to merge with the main branch 
 
