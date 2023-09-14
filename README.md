@@ -1,3 +1,0 @@
-# Gitbit
-
-# Trying out git
