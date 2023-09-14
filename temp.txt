@@ -1,9 +1,0 @@
-deleted Some unused contents - change by Atharva
-
-Hello this is new line.
-Hello this is Riya.
-hello this is Amit.
-
-Note: this is the amit branch created to merge with the main branch 
-
-this is a new line in differnt branch .
